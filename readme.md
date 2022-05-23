@@ -1,7 +1,7 @@
-#### About data engineering
+#### About docker compose
 You might heard of Docker-compose. The difference between Docker and Docker-compose is simple: docker commands are focused on only one container (or image) at once while docker-compose manage several containers docker.
 
-#### Scripts
+#### Scripts 
 ```
 docker run -it \
   -e POSTGRES_USER="root" \
